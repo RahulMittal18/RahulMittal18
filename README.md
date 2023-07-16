@@ -1,6 +1,4 @@
 <img src="https://github.com/RahulMittal18/RahulMittal18/blob/main/header.png?raw=true">
-<br />
-
 
 <!--
 **RahulMittal18/RahulMittal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
