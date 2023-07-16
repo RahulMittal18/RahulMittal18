@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 </p>
 <br>
 <a href="https://github.com/RahulMittal18">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RahulMittal18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RahulMittal18&show_icons=true&include_all_commits=true&theme=buefy" />
 </a>
 <a href="https://github.com/RahulMittal18">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMittal18&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMittal18&layout=compact&theme=buefy" />
 </a>
 <br>
 
