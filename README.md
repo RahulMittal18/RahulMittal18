@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulMittal18&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMittal18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulMittal18&label=Profile%20views&color=0e75b6&style=flat" alt="RahulMittal18" /> <img src="https://img.shields.io/github/followers/RahulMittal18?label=Follow&style=social"></p>
 
 - 🔭 I’m currently working on **some full stack projects**
 
