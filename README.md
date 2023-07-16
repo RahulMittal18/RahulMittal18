@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-mittal-b89037201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-mittal-b89037201/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahulmittall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmittall/" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/rahulmittall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulmittall/" height="30" width="40" />
+</a> -->
 </p>
 <br>
 <a href="https://github.com/RahulMittal18"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RahulMittal18&show_icons=true&include_all_commits=true&theme=buefy" /></a><a href="https://github.com/RahulMittal18"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMittal18&layout=compact&theme=buefy" /></a>
