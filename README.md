@@ -148,7 +148,7 @@ Here are some ideas to get you started:
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
@@ -188,7 +188,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="bootstrap"
       width="40"
       height="40"
